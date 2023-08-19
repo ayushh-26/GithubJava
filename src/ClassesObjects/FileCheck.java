@@ -13,5 +13,5 @@ public class FileCheck {
                 System.out.println("The path points to a directory.");
             }
         } else {
-            System.out.println("The file or directory does not exist.");  } } }
+            System.out.println("The file or directory does not exist. ");  } } }
 
