@@ -1,7 +1,4 @@
-
-import java.io.*;
-
-class GFG
+class CompoundInterest
 {
 	public static void main(String args[])
 	{
